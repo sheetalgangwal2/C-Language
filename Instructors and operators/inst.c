@@ -52,7 +52,7 @@ int power = b^c;
 
 
 
-//modular operator
+//modular operator          only on int (can be -ve and +ve)
 
 /*   3 % 2 = 1
     -3 % 2 = -1
@@ -60,10 +60,12 @@ int power = b^c;
 
 
 
-    //3 control inst
+    //3 control instructions
     /* used to determine flow of program
-    a. sequence control   b. decision control
-    c. loop control       d. case control
+    a. sequence control 
+    b. decision control
+    c. loop control       
+    d. case control
     */
 
 
